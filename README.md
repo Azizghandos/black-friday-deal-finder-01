@@ -1,8 +1,8 @@
 # Black Friday Deal Board
 
-[![30 deals checked 27 Nov 2026](https://img.shields.io/badge/deals-30%20checked%2027%20Nov%202026-c1272d)](https://github.com/Azizghandos/black-friday-deal-finder-01)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Bounty: black-friday-deal-finder-01](https://img.shields.io/badge/make.fun-black--friday--deal--finder--01-1c2333)](https://make.fun/c/black-friday-deal-finder-01)
+[![make.fun bounty](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/Azizghandos/black-friday-deal-finder-01/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/Azizghandos/black-friday-deal-finder-01/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
 
 A Black Friday deal finder for shoppers: **30 real deals, each price read at its store on 27 November 2026**, Black Friday itself, with the sale price, the usual price, the discount, an honest verdict on whether it is really a deal, and a link to the product at that store.
 
